@@ -23,7 +23,7 @@ const seedEvents = [
   { id: 3, title: "Futsal", category: "Sports", date: "2026-11-22", time: "8:30", capacity: 60, venue: "Sports Hall", description: "Cheer on your faculty in our annual futsal tournament.", image: "images/futsal.jpg" },
   { id: 4, title: "Handball", category: "Sports", date: "2026-12-01", time: "09:00", capacity: 300, venue: "Sports Hall", description: "Support your team at the campus handball tournament.", image: "images/handball.jpg" },
   { id: 5, title: "Basketball", category: "Sports", date: "2026-12-02", time: "8:00", capacity: 80, venue: "Sports Hall", description: "Join the student basketball league and cheer on the teams.", image: "images/keranjang.jpg" }
-  { id: 6, title: "Football", category: "Sports", date: "2026-12-02", time: "8:00", capacity: 80, venue: "Sports Hall", description: "Join the student basketball league and cheer on the teams.", image: "images/bola sepak.jpg" }
+  { id: 6, title: "Football", category: "Sports", date: "2026-12-02", time: "8:00", capacity: 80, venue: "Sports Hall", description: "Join the student basketball league and cheer on the teams.", image: "images/bola%20sepak.jpg" }
 ];
 const legacySeedEventTitles = {
   1: "Campus Activities",
