@@ -31,7 +31,7 @@ const legacySeedEventTitles = {
   3: "Campus Activities",
   4: "Campus Activities",
   5: "Campus Activities",
-  5: "Campus Activities"
+  6: "Campus Activities"
 };
 const legacySeedImageUrls = {
   1: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=80",
