@@ -49,7 +49,7 @@ const seedUsers = [
 const demoRegistrations = [
   { id: "reg-1", eventId: 1, userId: "aisha", userName: "Aisha Rahman", userEmail: "aisha@uitm.edu" },
   { id: "reg-2", eventId: 1, userId: "daniel", userName: "Daniel Tan", userEmail: "daniel@uitm.edu" },
-  { id: "reg-3", eventId: 1, userId: "-priya", userName: "Priya Kumar", userEmail: "priya@uitm.edu" },
+  { id: "reg-3", eventId: 1, userId: "priya", userName: "Priya Kumar", userEmail: "priya@uitm.edu" },
   { id: "reg-4", eventId: 1, userId: "amir", userName: "Amir Hakim", userEmail: "amir@uitm.edu" },
   { id: "reg-5", eventId: 2, userId: "mei", userName: "Mei Lin", userEmail: "mei@uitm.edu" },
   { id: "reg-6", eventId: 2, userId: "farah", userName: "Farah Zainal", userEmail: "farah@uitm.edu" },
