@@ -47,21 +47,21 @@ const seedUsers = [
   { id: 2, name: "Student", email: "student@univent.edu", password: "student123", role: "student" }
 ];
 const demoRegistrations = [
-  { id: "demo-reg-1", eventId: 1, userId: "aisha", userName: "Aisha Rahman", userEmail: "aisha@uitm.edu" },
-  { id: "demo-reg-2", eventId: 1, userId: "daniel", userName: "Daniel Tan", userEmail: "daniel@uitm.edu" },
-  { id: "demo-reg-3", eventId: 1, userId: "-priya", userName: "Priya Kumar", userEmail: "priya@uitm.edu" },
-  { id: "demo-reg-4", eventId: 1, userId: "amir", userName: "Amir Hakim", userEmail: "amir@uitm.edu" },
-  { id: "demo-reg-5", eventId: 2, userId: "mei", userName: "Mei Lin", userEmail: "mei@uitm.edu" },
-  { id: "demo-reg-6", eventId: 2, userId: "farah", userName: "Farah Zainal", userEmail: "farah@uitm.edu" },
-  { id: "demo-reg-7", eventId: 2, userId: "irfan", userName: "Irfan Rosli", userEmail: "irfan@uitm.edu" },
-  { id: "demo-reg-8", eventId: 3, userId: "amina", userName: "Amina Yusuf", userEmail: "amina@uitm.edu" },
-  { id: "demo-reg-9", eventId: 3, userId: "haziq", userName: "Haziq Ismail", userEmail: "haziq@uitm.edu" },
-  { id: "demo-reg-10", eventId: 3, userId: "sara", userName: "Sara Lee", userEmail: "sara@uitm.edu" },
-  { id: "demo-reg-11", eventId: 4, userId: "jason", userName: "Jason Lim", userEmail: "jason@uitm.edu" },
-  { id: "demo-reg-12", eventId: 4, userId: "nurul", userName: "Nurul Iman", userEmail: "nurul@uitm.edu" },
-  { id: "demo-reg-13", eventId: 5, userId: "kavitha", userName: "Kavitha Raj", userEmail: "kavitha@uitm.edu" },
-  { id: "demo-reg-14", eventId: 5, userId: "ethan", userName: "Ethan Wong", userEmail: "ethan@uitm.edu" },
-  { id: "demo-reg-15", eventId: 5, userId: "zara", userName: "Zara Abdullah", userEmail: "zara@uitm.edu" }
+  { id: "reg-1", eventId: 1, userId: "aisha", userName: "Aisha Rahman", userEmail: "aisha@uitm.edu" },
+  { id: "reg-2", eventId: 1, userId: "daniel", userName: "Daniel Tan", userEmail: "daniel@uitm.edu" },
+  { id: "reg-3", eventId: 1, userId: "-priya", userName: "Priya Kumar", userEmail: "priya@uitm.edu" },
+  { id: "reg-4", eventId: 1, userId: "amir", userName: "Amir Hakim", userEmail: "amir@uitm.edu" },
+  { id: "reg-5", eventId: 2, userId: "mei", userName: "Mei Lin", userEmail: "mei@uitm.edu" },
+  { id: "reg-6", eventId: 2, userId: "farah", userName: "Farah Zainal", userEmail: "farah@uitm.edu" },
+  { id: "reg-7", eventId: 2, userId: "irfan", userName: "Irfan Rosli", userEmail: "irfan@uitm.edu" },
+  { id: "reg-8", eventId: 3, userId: "amina", userName: "Amina Yusuf", userEmail: "amina@uitm.edu" },
+  { id: "reg-9", eventId: 3, userId: "haziq", userName: "Haziq Ismail", userEmail: "haziq@uitm.edu" },
+  { id: "reg-10", eventId: 3, userId: "sara", userName: "Sara Lee", userEmail: "sara@uitm.edu" },
+  { id: "reg-11", eventId: 4, userId: "jason", userName: "Jason Lim", userEmail: "jason@uitm.edu" },
+  { id: "reg-12", eventId: 4, userId: "nurul", userName: "Nurul Iman", userEmail: "nurul@uitm.edu" },
+  { id: "reg-13", eventId: 5, userId: "kavitha", userName: "Kavitha Raj", userEmail: "kavitha@uitm.edu" },
+  { id: "reg-14", eventId: 5, userId: "ethan", userName: "Ethan Wong", userEmail: "ethan@uitm.edu" },
+  { id: "reg-15", eventId: 5, userId: "zara", userName: "Zara Abdullah", userEmail: "zara@uitm.edu" }
 ];
 
 function seedData() {
