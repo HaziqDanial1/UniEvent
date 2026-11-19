@@ -44,7 +44,7 @@ const legacySeedImageUrls = {
 const categoryImages = { Sports: seedEvents[2].image };
 const seedUsers = [
   { id: 1, name: "Admin", email: "admin@univent.edu", password: "admin123", role: "admin" },
-  { id: 2, name: "Demo Student", email: "student@univent.edu", password: "student123", role: "student" }
+  { id: 2, name: "Student", email: "student@univent.edu", password: "student123", role: "student" }
 ];
 const demoRegistrations = [
   { id: "demo-reg-1", eventId: 1, userId: "demo-student-aisha", userName: "Aisha Rahman", userEmail: "aisha.demo@example.edu" },
